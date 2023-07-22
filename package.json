@@ -12,5 +12,9 @@
   "bin": {
     "random-str-msg": "./bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FavioGenaro/random-str-msg-fav.git"
+  }
 }
